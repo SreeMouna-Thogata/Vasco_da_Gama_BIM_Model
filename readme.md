@@ -80,7 +80,7 @@
 
 ## 3.3 Main Cable-Stayed Bridge
   This is the most critical structural portion of the project.
-####Key Specifications:
+#### Key Specifications:
 *	__Main span:__ 420 m 
 *	__Side spans:__ 203 m each 
 *	__Pylon height:__ 148–150 m 
