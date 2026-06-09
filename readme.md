@@ -30,9 +30,10 @@
 # 2. Project Details
 
   The Vasco da Gama Bridge (Portuguese: Ponte Vasco da Gama) is a cable-stayed bridge flanked by viaducts that spans the Tagus River in Parque das Nações in Lisbon, the capital of Portugal.
-
- 
-Figure 1: Vasco da Gama Bridge
+<div align="center">
+  <img src="./Images/1.jpg" width="500" height="300" alt="Vasco_da_Gama" />
+</div>
+<p align="center"><i>Figure 1: Vasco da Gama Bridge</i></p>
 
 *	__Location:__ Lisbon, Portugal (across the Tagus River) 
 *	__Type:__ Cable-stayed bridge with viaducts 
@@ -49,8 +50,10 @@ Figure 1: Vasco da Gama Bridge
 *	__Estimated Cost:__ $1.1 billion (in USD)
 
 
- 
-Figure 2: Sectional View of Bridge
+ <div align="center">
+  <img src="./Images/2.jpg" width="500" height="300" alt="Sectional View of Bridge" />
+</div>
+<p align="center"><i>Figure 2: Sectional View of Bridge</i></p>
 
 # 3. Structural Components
 
@@ -238,32 +241,44 @@ During the design process, it is important to use predefined components that can
 *	Pile Foundation consists of total number of eight piles for central viaduct. With pile cap in rectangular shape with Length = 22m and Width = 14m. 
 *	For Main Viaduct, Total number of piles are 16 with 1.7m diameter of each pile and 41m in length. With pile cap in rectangular shape with Length = 32m and Width = 14m. 
 
-
+<div align="center">
+  <img src="./Images/3.jpg" width="500" height="300" alt="Reference Level of Central Viaduct Pile Foundation image" />
+</div>
+<p align="center"><i>Figure 3: Reference Level of Central Viaduct Pile Foundation</i></p>  
  
-Figure 3: Reference level of Central Viaduct Pile foundation
-
-
+<div align="center">
+  <img src="./Images/4.jpg" width="500" height="300" alt="3D view of piles with pile cap image" />
+</div>
+<p align="center"><i>Figure 4: 3D view of piles with pile cap</i></p>
  
-Figure 4: 3D view of piles with pile cap
+ <div align="center">
+  <img src="./Images/5.jpg" width="500" height="300" alt="Main viaduct pile foundation image" />
+</div>
+<p align="center"><i>Figure 5: Main Viaduct pile foundation</i></p>  
 
-
- 
-Figure 5: Main viaduct Pile foundation
 ### 7. Creation of Pier
 
 *	Rectangular-shaped piers are provided to support the structure and transfer loads to the foundation. They are created using the Metric Structural Column template with a size of 6 m × 4 m and a height of 15m. including the rectangle bearing 5m × 3m. The geometry is formed using extrusion and aligned using reference planes. 
- 
-Figure 6: Ref level of Pier Creation
 
+ <div align="center">
+  <img src="./Images/6.jpg" width="500" height="300" alt="Ref level of Pier Creation" />
+</div>
+<p align="center"><i>Figure 6: Ref level of Pier Creation</i></p>
 
- 
-Figure 7: Pier
+<div align="center">
+  <img src="./Images/7.jpg" width="500" height="300" alt="Pier" />
+</div>
+<p align="center"><i>Figure 7: Pier</i></p>  
+
 ### 8. Abutments
 
 *	An abutment is the end support of a bridge that connects the superstructure to the ground. It transfers loads from the deck to the foundation and also retains the soil behind it.
 *	In this model, the abutments were created with a spread footing foundation to support and distribute the loads safely to the ground. They were modelled using extrusion in the Generic Model category to provide a conceptual representation for geometry and coordination. Dimensions include Width = 22m and Height = 48m of abutment.
- 
-Figure 8: Abutment
+
+ <div align="center">
+  <img src="./Images/8.jpg" width="500" height="300" alt="Abutment" />
+</div>
+<p align="center"><i>Figure 8: Abutment</i></p>  
 
 
 
@@ -271,12 +286,17 @@ Figure 8: Abutment
 
   The pylons are tall reinforced concrete towers, approximately 148–150 meters in height, located in the main cable-stayed section of the bridge. They are designed in an H-shape and serve as the primary load-bearing elements by supporting the stay cables that hold the bridge deck. These pylons transfer loads from the deck and traffic to the foundation while maintaining structural stability. They are engineered to withstand strong winds, seismic forces, and harsh marine conditions, ensuring durability and long-term performance of the bridge.
 
- 
-Figure 9: Front View of Pylon
+ <div align="center">
+  <img src="./Images/9.jpg" width="500" height="300" alt="Front View of Pylon image" />
+</div>
+<p align="center"><i>Figure 9: Front View of Pylon</i></p>  
 
 
- 
-Figure 10: 3D view of Pylon
+
+ <div align="center">
+  <img src="./Images/10.jpg" width="500" height="300" alt="3D view of Pylon" />
+</div>
+<p align="center"><i>Figure 10: 3D View of Pylon</i></p>  
 
 
 
@@ -287,13 +307,16 @@ Figure 10: 3D view of Pylon
 *	Reference planes are used to control the geometry and maintain symmetry. Hollow sections are provided using void sweep, and the geometry is aligned and constrained for proper placement, with a structural material assigned.
 
 
- 
-Figure 11: Left view of Girder Family
+ <div align="center">
+  <img src="./Images/11.jpg" width="500" height="300" alt="Left view of Girder Family" />
+</div>
+<p align="center"><i>Figure 11: Left view of Girder Family</i></p>  
 
 
-
- 
-Figure 12: 3D View of Girder
+<div align="center">
+  <img src="./Images/12.jpg" width="500" height="300" alt="3D View of Girder" />
+</div>
+<p align="center"><i>Figure 12: 3D View of Girder</i></p>  
 
 
 
@@ -302,22 +325,30 @@ Figure 12: 3D View of Girder
 
   The barriers in the Vasco da Gama Bridge are essential safety elements provided along the edges and median of the roadway. They are typically made of reinforced concrete and steel, designed to prevent vehicles from leaving the carriageway and to minimize the impact during collisions. The side barriers protect vehicles from falling into the river, while the central median barriers separate opposing traffic to reduce the risk of head-on accidents. In addition to safety, these barriers also help in controlling traffic flow and may include features for wind shielding and maintenance access.
 
- 
-Figure 13: Reference Level of Barrier
+ <div align="center">
+  <img src="./Images/13.jpg" width="500" height="300" alt="Reference Level of Barrier" />
+</div>
+<p align="center"><i>Figure 13: Reference Level of Barrier</i></p>  
 
 
- 
-Figure 14: 3D View of Barrier
+ <div align="center">
+  <img src="./Images/14.jpg" width="500" height="300" alt="3D View of Barrier" />
+</div>
+<p align="center"><i>Figure 14:3D View of Barrier</i></p>  
 ### 12. Cable System
 
 *	Open generic model. Go to reference level. Draw RPs and use partial ellipse to draw curve shapes.
 
- 
-Figure 15: Concrete Block
+ <div align="center">
+  <img src="./Images/15.jpg" width="500" height="300" alt="Concrete Block" />
+</div>
+<p align="center"><i>Figure 15: Concrete Block</i></p>  
 
 
- 
-Figure 16: Cable
+<div align="center">
+  <img src="./Images/16.jpg" width="500" height="300" alt="Cable" />
+</div>
+<p align="center"><i>Figure 1: Cable</i></p>  
 
 
 
@@ -325,20 +356,25 @@ Figure 16: Cable
 
 *	A deck slab is the top structural layer of a bridge that carries traffic loads and transfers them to the girders. In this model, it is created using the Slab: Structural tool, placed above the box girder with a thickness of 150 mm. The slab boundary is aligned and locked to the girder edges for accurate placement and load transfer.
 
- 
-Figure 17: Deck Slab
+ <div align="center">
+  <img src="./Images/17.jpg" width="500" height="300" alt="Deck Slab" />
+</div>
+<p align="center"><i>Figure 17: Deck Slab</i></p>  
 
 ### 14. Completed Project
 
 *	After creating all the families, they were loaded into the project. Each element was then placed and aligned with grids, levels, and reference planes to complete the bridge model properly. As I have considered only 1km stretch of Vasco da Gama bridge with duration of 12 months and Cost of bridge is 12 crore in Indian rupees. 
 
- 
-Figure 18: Elevation of Bridge Model
+<div align="center">
+  <img src="./Images/18.jpg" width="500" height="300" alt="Elevation of Bridge Model image" />
+</div>
+<p align="center"><i>Figure 18: Elevation of Bridge Model</i></p>  
 
 
-
- 
-Figure 19: 3D View of Bridge Model
+<div align="center">
+  <img src="./Images/19.jpg" width="500" height="300" alt="3D view of Bridge Model image" />
+</div>
+<p align="center"><i>Figure 19: 3D View of Bridge Model</i></p>  
 
 
 # 11. Navisworks Manage
@@ -362,9 +398,14 @@ Figure 19: 3D View of Bridge Model
  __9.	Run Simulation:__ Click on Simulate to visualise the construction sequence over time and analyse cost variation.  
 
 
- 
-Figure 20: Sets and Schedule in Navisworks
+ <div align="center">
+  <img src="./Images/20.jpg" width="500" height="300" alt="Sets and Schedule in Naviswork image" />
+</div>
+<p align="center"><i>Figure 20: Sets and Schedules in Navisworks</i></p>  
 
 
- 
-Figure 21: Simulation in Navisworks
+
+<div align="center">
+  <img src="./Images/21.jpg" width="500" height="300" alt="Simulation in Navisworks" />
+</div>
+<p align="center"><i>Figure 21: Simulation in Navisworks</i></p>  
